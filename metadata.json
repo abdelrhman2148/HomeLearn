@@ -1,0 +1,5 @@
+{
+  "name": "HomeLearn AI Planner",
+  "description": "A comprehensive homeschool planning and tracking application powered by Gemini AI to generate lesson plans, schedule activities, and track student progress.",
+  "requestFramePermissions": []
+}
